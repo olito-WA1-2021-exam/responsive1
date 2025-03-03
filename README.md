@@ -1,0 +1,1 @@
+# responsive-clip-path-card
